@@ -1,0 +1,11 @@
+{
+  "name": "case_writer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Shamus \u2014 osint helper",
+  "license": "MIT",
+  "main": "lib/case_writer.js",
+  "scripts": {
+    "start": "node lib/case_writer.js"
+  }
+}
