@@ -1,0 +1,4 @@
+repository:
+  homepage: https://awesomeosint.tools/shamus/
+  description: "Command-line AI agent for OSINT: one command, it picks the tools, runs them and writes the case file."
+  topics: osint, osint-tool, ai-agent, cli, terminal, llm, reconnaissance, investigation
